@@ -1,9 +1,9 @@
 #!/bin/sh
 
-# Slackware build script for perl-AnyEvent-Handle
+# Slackware build script for perl-AnyEvent
 # Written by Marcin Herda <mherda@slackword.net>
 
-PRGNAM=perl-AnyEvent-Handle
+PRGNAM=perl-AnyEvent
 VERSION=${VERSION:-7.07}
 BUILD=${BUILD:-1}
 TAG=${TAG:-_SBo}
