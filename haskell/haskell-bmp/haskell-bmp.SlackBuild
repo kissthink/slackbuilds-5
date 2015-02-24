@@ -2,7 +2,7 @@
 
 # Slackware build script for bmp
 
-# Copyright 2014 Mikko Värri, Finland
+# Copyright 2015 Mikko Värri, Finland
 # All rights reserved.
 #
 # Redistribution and use of this script, with or without modification, is
@@ -24,7 +24,7 @@
 
 PRGNAM=haskell-bmp
 VERSION=${VERSION:-1.2.5.2}
-BUILD=${BUILD:-1}
+BUILD=${BUILD:-2}
 TAG=${TAG:-_SBo}
 
 SRCNAM="$( echo $PRGNAM | cut -d- -f2- )"
