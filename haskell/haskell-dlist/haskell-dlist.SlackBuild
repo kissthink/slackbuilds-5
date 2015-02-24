@@ -3,7 +3,7 @@
 # Slackware build script for dlist
 
 # Written by Peter Wang (novalazy@gmail.com)
-# Copyright 2014 Mikko Värri, Finland
+# Copyright 2015 Mikko Värri, Finland
 # All rights reserved.
 #
 # Redistribution and use of this script, with or without modification, is
@@ -24,7 +24,7 @@
 #  ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 PRGNAM=haskell-dlist
-VERSION=${VERSION:-0.6.0.1}
+VERSION=${VERSION:-0.7.1}
 BUILD=${BUILD:-1}
 TAG=${TAG:-_SBo}
 
